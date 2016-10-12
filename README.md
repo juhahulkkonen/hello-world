@@ -1,2 +1,3 @@
 # hello-world
-practicing github 
+practicing github
+Juha needs to know github
